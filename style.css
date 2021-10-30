@@ -127,6 +127,11 @@ p {
     font-size: 70px;
   }
 }
+
+a.mail{
+  text-decoration: none;
+  color: white;
+}
  
 @media only screen and (max-width: 800px) {
   h1 {
